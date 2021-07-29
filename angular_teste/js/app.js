@@ -1,1 +1,0 @@
-angular.module('geekSpace', ['ui.bootstrap', 'ngSanitize']);
