@@ -10,7 +10,10 @@ Por padrão, esse limite é de 100 HQ's por busca.
 
 As HQ's se dividem em dois grupos: raras e comuns.
 As raras tendem a aparecer em 12% das HQ's totais, são conhecidas pelo efeito piscando em volta da HQ
+Também é possível indentificar quando a HQ é rara dentro da janela de detalhes.
 
+Antes de efetuar a compra, verifique quantas estrelas aquele item possui. Você encontra esse indicador logo abaixo do título
+da HQ na janela de detalhes.
 
 Ao clicar em uma HQ, mais informações serão exibidas.
 
