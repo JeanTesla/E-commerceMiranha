@@ -19,3 +19,6 @@ Ao clicar em uma HQ, mais informações serão exibidas.
 
 Assim como existem dois tipos de HQ's, também existem dois tipos de cupons, sendo eles: Raros (25% OFF) e comuns (10% OFF).
 Cupons Raros podem ser usados em HQ's raras e comuns, por outro lado, cupons comuns não podem ser usados em HQ's raras.
+
+Se algum problema for encontrado durante a execução do projeto ou você preferir não baixar ainda, aqui está o link de um vídeo
+mostrando o E-commerceMiranha https://youtu.be/2vwRkNkOxU8
